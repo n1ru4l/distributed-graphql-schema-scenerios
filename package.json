@@ -1,0 +1,14 @@
+{
+  "name": "distributed-schema-scenarios",
+  "workspaces": [
+    "examples/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "cross-env": "7.0.3",
+    "prettier": "2.5.1",
+    "ts-node": "10.5.0",
+    "ts-node-dev": "1.1.8",
+    "typescript": "4.6.2"
+  }
+}
